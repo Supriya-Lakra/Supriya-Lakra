@@ -1,50 +1,50 @@
+# About Me
+I am a passionate and dedicated professional with a strong background in technology and engineering, seeking to leverage my skills to contribute effectively to a dynamic team.
+
 # Professional Summary
-Dedicated and results-driven software engineer with a strong background in developing high-quality software solutions. Proven track record in problem-solving, teamwork, and effective communication.
+With over X years of diverse experience in various industries, I have developed a robust skill set in software development, project management, and data analytics. My approach combines analytical thinking, technical expertise, and effective communication to solve complex problems and drive successful outcomes.
 
 # Technical Skills
-- Programming Languages: Java, Python, JavaScript
-- Web Technologies: HTML, CSS, React
-- Database Management: MySQL, PostgreSQL
-- Cloud Computing: AWS, Azure
+- Programming Languages: Java, Python, C++
+- Web Technologies: HTML, CSS, JavaScript, React
+- Databases: MySQL, MongoDB
 - Tools: Git, Docker, Jenkins
+- Cloud: AWS, Azure
 
 # Key Achievements
-- Successfully led a team of developers to deliver a project ahead of schedule, increasing client satisfaction.
-- Developed a microservices architecture that reduced load time by 30%.
+- Successfully led a team to deliver a high-impact project that increased efficiency by Y%.
+- Recognized for excellence in project execution and client relationship management.
 
 # Professional Experience
-## SLB
-**Software Engineer**  
-- Designed and implemented software solutions for operational efficiency.  
-- Collaborated with cross-functional teams to integrate new features and improvements.
-
-## Schlumberger
-**Junior Software Developer**  
-- Assisted in developing applications to automate data analysis.  
-- Gained hands-on experience with customer-oriented software development.
+## SLB Schlumberger
+*Role: [Your Role]*  
+*Dates: [Start Date] - [End Date]*  
+- Key responsibility 1
+- Key responsibility 2
 
 ## Infosys
-**Intern**  
-- Contributed to various software development projects and learned agile methodologies.  
-- Involved in code reviews and quality assurance processes.
+*Role: [Your Role]*  
+*Dates: [Start Date] - [End Date]*  
+- Key responsibility 1
+- Key responsibility 2
 
 # Education
-- **Birla Institute of Technology and Science (BITS)**  
-Bachelor of Engineering in Computer Science
-- **Padmanava College of Engineering**  
-Bachelor of Technology in Computer Science
+## Birla Institute of Technology, Mesra  
+*Degree: [Your Degree]*  
+*Year of Graduation: [Year]*  
+
+## Padmanava College of Engineering  
+*Degree: [Your Degree]*  
+*Year of Graduation: [Year]*  
 
 # Core Strengths
-- Strong analytical skills.
-- Effective communicator, able to convey complex technical concepts to non-technical stakeholders.
-- Excellent team collaboration abilities.
+- Strong analytical and problem-solving abilities.
+- Excellent communication and interpersonal skills.
+- Adaptability and eagerness to learn.
 
 # GitHub Stats
-- **Forks:** 150  
-- **Stars:** 500  
-- **Contributors:** 50
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supriya-Lakra&show_icons=true)
 
 # Contact Information
-- **Email:** supriya@example.com  
-- **LinkedIn:** www.linkedin.com/in/supriya-lakra  
-- **GitHub:** github.com/Supriya-Lakra
+You can find me on LinkedIn: [Your LinkedIn Profile URL]  
+For inquiries, please contact me at: [Your Email Address]
