@@ -2,40 +2,37 @@
 I am a passionate and dedicated professional with a strong background in technology and engineering, seeking to leverage my skills to contribute effectively to a dynamic team.
 
 # Professional Summary
-With over X years of diverse experience in various industries, I have developed a robust skill set in software development, project management, and data analytics. My approach combines analytical thinking, technical expertise, and effective communication to solve complex problems and drive successful outcomes.
+With over 4+ years of diverse experience in various industries, I have developed a robust skill set in software development, project management, and data analytics. My approach combines analytical thinking, technical expertise, and effective communication to solve complex problems and drive successful outcomes.
 
 # Technical Skills
 - Programming Languages: Java, Python, C++
-- Web Technologies: HTML, CSS, JavaScript, React
+- Web Technologies: HTML, CSS
 - Databases: MySQL, MongoDB
-- Tools: Git, Docker, Jenkins
-- Cloud: AWS, Azure
+- Tools: Github, Maven
+- Cloud: Azure
+- Testing: JUnit, Postman, Insomnia
 
 # Key Achievements
-- Successfully led a team to deliver a high-impact project that increased efficiency by Y%.
+- Successfully led a team to deliver a high-impact project that increased efficiency by 40%.
 - Recognized for excellence in project execution and client relationship management.
 
 # Professional Experience
 ## SLB Schlumberger
-*Role: [Your Role]*  
-*Dates: [Start Date] - [End Date]*  
+Role: PLM Digital Integration Specialist  
 - Key responsibility 1
 - Key responsibility 2
 
 ## Infosys
-*Role: [Your Role]*  
-*Dates: [Start Date] - [End Date]*  
-- Key responsibility 1
-- Key responsibility 2
+Role: System Engineer
 
 # Education
 ## Birla Institute of Technology, Mesra  
-*Degree: [Your Degree]*  
-*Year of Graduation: [Year]*  
+Degree: Master in Electronics and Communication
+*Year of Graduation: 2021*
 
 ## Padmanava College of Engineering  
-*Degree: [Your Degree]*  
-*Year of Graduation: [Year]*  
+Degree: Bachelor in Electronics and Telecommunication  
+*Year of Graduation: 2019*
 
 # Core Strengths
 - Strong analytical and problem-solving abilities.
@@ -46,5 +43,5 @@ With over X years of diverse experience in various industries, I have developed 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supriya-Lakra&show_icons=true)
 
 # Contact Information
-You can find me on LinkedIn: [Your LinkedIn Profile URL]  
-For inquiries, please contact me at: [Your Email Address]
+You can find me on LinkedIn: (https://www.linkedin.com/in/e-supriya-ranjan-lakra-5ba02b169)  
+For inquiries, please contact me at: esupriyarankanl@gmail.com
